@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarazena
 - 👀 I’m interested in programming, music, photography, film-making
-- 🌱 I’m currently learning Swift, Python, Solidity, Rust
+- 🌱 I’m currently learning Swift, Python, Kotlin
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me tarazena@gmail.com
 
